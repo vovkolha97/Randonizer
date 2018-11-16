@@ -1,4 +1,4 @@
-package Square;
+package ua.com.Qalight.Olga.square;
 
 import ua.com.Qalight.Olga.AbstractShape;
 

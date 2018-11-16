@@ -1,4 +1,4 @@
-package ua.com.Qalight.Olga.Square;
+package ua.com.Qalight.Olga.square;
 
 import static org.junit.Assert.*;
 

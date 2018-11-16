@@ -1,4 +1,4 @@
-package Circle;
+package ua.com.Qalight.Olga.circle;
 
 import ua.com.Qalight.Olga.AbstractShape;
 

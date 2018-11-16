@@ -1,16 +1,11 @@
-package ua.com.Qalight.Olga.Triangle;
+package ua.com.Qalight.Olga.triangle;
 
 import static org.junit.Assert.*;
-
-import org.junit.Test;
-
-import Triangle.Triangle;
 
 public class TriangleTest {
 
 	@Test
 	public void testGetArea() {
-		
 		Triangle triangle = new Triangle();
 		triangle.setBase(10);
 		triangle.setHeight(15);

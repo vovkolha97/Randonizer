@@ -1,4 +1,4 @@
-package ua.com.Qalight.Olga.Circle;
+package ua.com.Qalight.Olga.circle;
 
 import static org.junit.Assert.*;
 

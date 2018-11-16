@@ -1,4 +1,4 @@
-package Triangle;
+package ua.com.Qalight.Olga.triangle;
 
 import ua.com.Qalight.Olga.AbstractShape;
 
