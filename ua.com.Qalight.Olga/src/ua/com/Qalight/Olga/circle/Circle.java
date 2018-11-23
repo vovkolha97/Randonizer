@@ -7,6 +7,10 @@ public class Circle extends AbstractShape{
 	private double radius;
 	
 	
+	public Circle(double i) {
+	}
+
+
 	public double getRadius() {
 		return radius;
 	}

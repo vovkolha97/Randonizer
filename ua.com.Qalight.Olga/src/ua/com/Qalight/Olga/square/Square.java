@@ -7,6 +7,10 @@ public class Square extends AbstractShape{
 	private double side;
 	
 
+	public Square(int i) {
+	}
+
+
 	public double getSide() {
 		return side;
 	}
